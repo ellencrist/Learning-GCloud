@@ -14,3 +14,21 @@
 
 - By 2030, they aim to become the first large company to operate carbon-free.
 
+
+## Services: IaaS vs SaaS vs PaaS
+
+- IaaS offers raw compute, storage and network resources, virtually organized into resources similar to physical data centers.
+
+- PaaS links code to libraries that provide infrastructure to applications.
+This way you can dedicate more resources to application logic
+
+
+- With IaaS, customers pay for allocated resources upfront.
+
+- With PaaS, customers pay for the resources that are used.
+
+- SaaS applications are not installed on the PC.
+They run in the cloud as a service and are consumed by users over the Internet.
+
+Famous Google apps such as Gmail, Docs and Drive called Google Workspace are classified as SaaS.
+
